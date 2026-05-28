@@ -62,7 +62,7 @@ void addStudent() {
     cin >> newStudent.seatNumber;
 
     string subjects[SUBJECTS] = {
-        "Quran", "Islamic Studies", "Arabic", "English", 
+        "Quran", "Islamic", "Arabic", "English", 
         "Physics", "Chemistry", "Biology", "Mathematics"
     };
 
