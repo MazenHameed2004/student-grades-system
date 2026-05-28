@@ -1,4 +1,4 @@
-*  Student Grades Management System  *
+**Student Grades Management System**
 
 A simple C++ project for managing student grades.
 
@@ -8,6 +8,6 @@ Features:
 - Determine student status (Passed/Failed)
 - Search student by seat number
 
-Developer: Mazen Hameed 
-Language : C++
-========================================
+**Developer: Mazen Hameed 
+Language : C++**
+
