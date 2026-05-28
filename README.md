@@ -1,8 +1,4 @@
-
-=====================
-   Student Grades 
-   Management System
-=====================
+*  Student Grades Management System  *
 
 A simple C++ project for managing student grades.
 
