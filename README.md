@@ -8,7 +8,7 @@ Features:
 - Determine student status (Passed/Failed)
 - Search student by seat number
 
-**Developer: MazenHameedhttps://wa.me/967737191151**
+**Developer: MazenHameed https://wa.me/967737191151**
 
 **Language : C++**
 
